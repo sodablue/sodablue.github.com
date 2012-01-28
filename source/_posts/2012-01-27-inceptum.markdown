@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Inceptum"
+date: 2012-01-27 21:07
+comments: true
+categories: General
+---
+
+{% blockquote Seth Godin %}
+As an organization grows and succeeds, it sows the seeds of its own demise by getting boring.
+{% endblockquote %}
+
+This is my experiment with Github Pages and Octopress.
+
