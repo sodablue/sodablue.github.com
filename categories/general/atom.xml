@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sodablue]]></title>
-  <link href="http://sodablue.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | Sodablue]]></title>
+  <link href="http://sodablue.org/categories/general/atom.xml" rel="self"/>
   <link href="http://sodablue.org/"/>
   <updated>2012-02-01T20:02:16-06:00</updated>
   <id>http://sodablue.org/</id>
@@ -18,10 +18,7 @@
     <link href="http://sodablue.org/blog/inceptum/"/>
     <updated>2012-01-27T21:07:00-06:00</updated>
     <id>http://sodablue.org/blog/inceptum</id>
-    <content type="html"><![CDATA[<blockquote><p>The secret to being wrong isn&#8217;t to avoid being wrong! The secret is being willing to be wrong. The secret is realizing that wrong isn&#8217;t fatal.</p><footer><strong>Seth Godin</strong> <cite>Linchpin: Are You Indispensable?</cite></footer></blockquote>
-
-
-
+    <content type="html"><![CDATA[<p><blockquote><p>The secret to being wrong isn't to avoid being wrong! The secret is being willing to be wrong. The secret is realizing that wrong isn't fatal.</p><footer><strong>Seth Godin</strong> <cite>Linchpin: Are You Indispensable?</cite></footer></blockquote></p>
 ]]></content>
   </entry>
   
