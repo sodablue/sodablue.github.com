@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Inceptum"
+title: Welcome
 date: 2012-01-27 21:07
 comments: true
 categories: General
 ---
 
-{% blockquote Seth Godin %}
-As an organization grows and succeeds, it sows the seeds of its own demise by getting boring.
+{% blockquote Seth Godin, Linchpin: Are You Indispensable? %}
+The secret to being wrong isn't to avoid being wrong! The secret is being willing to be wrong. The secret is realizing that wrong isn't fatal.
 {% endblockquote %}
-
-This is my experiment with Github Pages and Octopress.
 
