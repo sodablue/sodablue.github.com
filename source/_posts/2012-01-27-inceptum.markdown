@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-date: 2012-01-27 21:07
+date: 2012-02-01 21:07
 comments: true
 categories: General
 ---
@@ -10,3 +10,7 @@ categories: General
 The secret to being wrong isn't to avoid being wrong! The secret is being willing to be wrong. The secret is realizing that wrong isn't fatal.
 {% endblockquote %}
 
+I decided to try using github pages, which was somewhat limiting.  Looking around further I found Octopress which is
+a set of Ruby scripts around the Jekyll engine that github pages uses that starts you off with a nice template and a plugin architecture.
+
+There's no database, it's just all static pages stored in source control.  It's blogging like a true developer! :-)
