@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Sodablue]]></title>
   <link href="http://sodablue.org/categories/general/atom.xml" rel="self"/>
   <link href="http://sodablue.org/"/>
-  <updated>2012-02-01T20:02:16-06:00</updated>
+  <updated>2012-02-01T20:49:36-06:00</updated>
   <id>http://sodablue.org/</id>
   <author>
     <name><![CDATA[Steve Sheldon]]></name>
@@ -16,9 +16,14 @@
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
     <link href="http://sodablue.org/blog/inceptum/"/>
-    <updated>2012-01-27T21:07:00-06:00</updated>
+    <updated>2012-02-01T21:07:00-06:00</updated>
     <id>http://sodablue.org/blog/inceptum</id>
     <content type="html"><![CDATA[<p><blockquote><p>The secret to being wrong isn't to avoid being wrong! The secret is being willing to be wrong. The secret is realizing that wrong isn't fatal.</p><footer><strong>Seth Godin</strong> <cite>Linchpin: Are You Indispensable?</cite></footer></blockquote></p>
+
+<p>I decided to try using github pages, which was somewhat limiting.  Looking around further I found Octopress which is
+a set of Ruby scripts around the Jekyll engine that github pages uses that starts you off with a nice template and a plugin architecture.</p>
+
+<p>There's no database, it's just all static pages stored in source control.  It's blogging like a true developer! :-)</p>
 ]]></content>
   </entry>
   
